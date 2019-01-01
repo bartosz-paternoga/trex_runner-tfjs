@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/trex_runner-tfjs/precache-manifest.e22b54da7db9c54b790fc0e4b581b175.js"
+  "/trex_runner-tfjs/precache-manifest.49ea0357847d56f5fc3d5fe1865eb4d4.js"
 );
 
 workbox.clientsClaim();
