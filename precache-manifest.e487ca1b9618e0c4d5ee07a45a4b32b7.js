@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f8e05b0fc4c348cb8a5c",
+    "revision": "c26a96655f1e63f7013c",
     "url": "/trex_runner-tfjs/static/css/main.33449ae1.chunk.css"
   },
   {
-    "revision": "f8e05b0fc4c348cb8a5c",
-    "url": "/trex_runner-tfjs/static/js/main.f8e05b0f.chunk.js"
+    "revision": "c26a96655f1e63f7013c",
+    "url": "/trex_runner-tfjs/static/js/main.c26a9665.chunk.js"
   },
   {
     "revision": "60c798ca4a6c2850e98b",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/trex_runner-tfjs/static/js/runtime~main.0d6a93ba.js"
   },
   {
-    "revision": "cc18b3523694f3522ac5dfa06aef2412",
+    "revision": "1747273ae657251eb9cf1934a9a0b86b",
     "url": "/trex_runner-tfjs/index.html"
   }
 ];
