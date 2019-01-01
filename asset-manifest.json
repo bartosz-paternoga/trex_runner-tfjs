@@ -1,13 +1,13 @@
 {
-  "main.css": "/trex_runner-tfjs/static/css/main.ca81f681.chunk.css",
-  "main.js": "/trex_runner-tfjs/static/js/main.1f7a6f6c.chunk.js",
-  "main.js.map": "/trex_runner-tfjs/static/js/main.1f7a6f6c.chunk.js.map",
+  "main.css": "/trex_runner-tfjs/static/css/main.90895b3f.chunk.css",
+  "main.js": "/trex_runner-tfjs/static/js/main.19a58069.chunk.js",
+  "main.js.map": "/trex_runner-tfjs/static/js/main.19a58069.chunk.js.map",
   "static/js/1.e232ce42.chunk.js": "/trex_runner-tfjs/static/js/1.e232ce42.chunk.js",
   "static/js/1.e232ce42.chunk.js.map": "/trex_runner-tfjs/static/js/1.e232ce42.chunk.js.map",
   "runtime~main.js": "/trex_runner-tfjs/static/js/runtime~main.0d6a93ba.js",
   "runtime~main.js.map": "/trex_runner-tfjs/static/js/runtime~main.0d6a93ba.js.map",
-  "static/css/main.ca81f681.chunk.css.map": "/trex_runner-tfjs/static/css/main.ca81f681.chunk.css.map",
+  "static/css/main.90895b3f.chunk.css.map": "/trex_runner-tfjs/static/css/main.90895b3f.chunk.css.map",
   "index.html": "/trex_runner-tfjs/index.html",
-  "precache-manifest.4bf7397399baddea5eb9598d36e55cf3.js": "/trex_runner-tfjs/precache-manifest.4bf7397399baddea5eb9598d36e55cf3.js",
+  "precache-manifest.8ef00215a27546100890d46130f8d1b3.js": "/trex_runner-tfjs/precache-manifest.8ef00215a27546100890d46130f8d1b3.js",
   "service-worker.js": "/trex_runner-tfjs/service-worker.js"
 }
